@@ -1,1 +1,1 @@
-# Call-Center-Dashboard
+This project demonstrates proficiency in Microsoft Excel pivot tables and dashboard creation. The data was validated prior to creation of the dashboard, and creative styling was used to improve user experience. Slicers were added and connected to the pivot tables to allow users to filter the information as needed.
